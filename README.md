@@ -25,10 +25,13 @@ This service got single endpoint at http://127.0.0.1:5001/.  Depending on the Ac
 
 Test 
 ==============================
-
+<code>
 curl -i -H "Accept: application/json" http://localhost:5001/
+</code>
 or
+<code>
 curl -i http://localhost:5001/
+</code>
 
 UnitTests 
 ==============================
