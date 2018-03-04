@@ -28,7 +28,9 @@ Test
 <code>
 curl -i -H "Accept: application/json" http://localhost:5001/
 </code>
+
 or
+
 <code>
 curl -i http://localhost:5001/
 </code>
